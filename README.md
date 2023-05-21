@@ -2,8 +2,8 @@
 ![Node Version](https://img.shields.io/badge/Node.js-18.14.1LTS_|_19.6.1-informational?style=flat&logo=node.js&logoColor=white&color=11BB11)
 ![React Version](https://img.shields.io/github/package-json/dependency-version/joshua-crews/SpareFoodShare/react?logo=react)
 ![Python Version](https://img.shields.io/badge/Python_Version-3.11-informational?style=flat&logo=python&logoColor=white&color=11BB11)
-[![LintJS](https://github.com/joshua-crews/SpareFoodShare/actions/workflows/lintJS.yml/badge.svg)](https://github.com/404-N0tFound/SpareFoodShare/actions/workflows/lintJS.yml)
-[![LintPy](https://github.com/joshua-crews/SpareFoodShare/actions/workflows/lintPy.yml/badge.svg)](https://github.com/404-N0tFound/SpareFoodShare/actions/workflows/lintPy.yml)
+[![LintJS](https://github.com/joshua-crews/SpareFoodShare/actions/workflows/lintJS.yml/badge.svg)](https://github.com/joshua-crews/SpareFoodShare/actions/workflows/lintJS.yml)
+[![LintPy](https://github.com/joshua-crews/SpareFoodShare/actions/workflows/lintPy.yml/badge.svg)](https://github.com/joshua-crews/SpareFoodShare/actions/workflows/lintPy.yml)
 
 # About
 This is a fork of the code for SpareFoodShare :carrot:. I am maintaining a separate version with changes that did not make it into the final version but that I want to experiment with. In order to run the project, you will need the necessary node packages as well as a configured python environment from [requirements.txt](requirements.txt).
